@@ -1,4 +1,4 @@
-# MedixBackend
+# CommentManagement
 
 A Restful API application, build with the combination of NodeJs and TypeScript
 
